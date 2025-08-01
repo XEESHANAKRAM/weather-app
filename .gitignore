@@ -1,0 +1,11 @@
+# Root .gitignore
+node_modules/
+dist/
+*.log
+.env
+# Java build
+target/
+*.class
+# OS files
+.DS_Store
+Thumbs.db
